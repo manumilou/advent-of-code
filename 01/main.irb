@@ -1,0 +1,5 @@
+require_relative 'time_fixer'
+
+f = TimeFixer.new
+f.compute_frequency
+print f.frequency
