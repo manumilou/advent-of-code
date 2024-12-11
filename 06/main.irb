@@ -1,4 +1,0 @@
-require_relative 'polymer_scanner'
-
-sequence_scanner = PolymerScanner.new
-sequence_scanner.compute_sequence
