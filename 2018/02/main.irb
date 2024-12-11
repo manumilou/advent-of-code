@@ -1,0 +1,5 @@
+require_relative 'box_scanner'
+
+box_scanner = BoxScanner.new
+#print box_scanner.compute_checksum
+box_scanner.box_full_of_prototype_fabric
